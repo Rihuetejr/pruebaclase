@@ -1,2 +1,2 @@
 # pruebaclase
-prueba de clase
+Esto es una prueba de Alejandro Rihuete
